@@ -16,13 +16,13 @@ using tools.AnsiUtil;
 @:nullSafety
 class Project extends HXProject
 {
-  static final VERSION:String = "0.8.7";
+  static final VERSION:String = "0.0.1";
   static final BUILD_NUMBER:Int = 102;
 
-  static final TITLE:String = "Friday Night Funkin'";
-  static final TITLE_MOBILE:String = "FNF: No Storage";
-  static final PACKAGE_NAME:String = "me.funkin.fnfnostorage";
-  static final EXECUTABLE_NAME:String = "FunkinNoStorage";
+  static final TITLE:String = "Planet Slice";
+  static final TITLE_MOBILE:String = "Planet Slice";
+  static final PACKAGE_NAME:String = "com.planetslice.api";
+  static final EXECUTABLE_NAME:String = "PlanetSlice";
   static final COMPANY:String = "The Funkin' Crew";
   static final LANGUAGES:Array<String> = ["en"];
 
